@@ -26,7 +26,7 @@ title: Jazz Scales Review 1
 
 	1. G Blues scale: G, A, Bb, B, D, E
 
-		<details>This is the major blues scale. The minor blues is G, Bb, C, D, F</details>
+		<details>This is the major blues scale. The minor blues is G, Bb, C, C#, D, F</details>
 	
 	1. Bb Blues scale: Bb, Db, Eb, F, Ab
     
