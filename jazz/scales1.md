@@ -30,6 +30,5 @@ title: Jazz Scales Review 1
 	
 	1. Bb Blues scale: Bb, Db, Eb, F, Ab
     
-    	<details>This is just the minor pentatonic. The Blues scale needs a #4: E.</details>
-    	
+		<details>This is just the minor pentatonic. The Blues scale needs a #4: E.</details>
     	
