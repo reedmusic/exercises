@@ -2,7 +2,43 @@
 title: Jazz Scales Review 1
 ---
 
-## Blues scale
+## Shorthand
+
+
+
+## Pentatonic scales
+
+1. There are both major and minor pentatonic scales. Fill in the table to show how each are commonly referred to.
+
+	<table>
+	<tr><th>Common name</th><th>Full definition</th></tr>
+	<tr>
+		<td>Pentatonic scale</td><td>Major/minor pentatonic scale?<details>Major pentatonic scale</details></td>
+	</tr>
+	<tr>
+		<td>Blues scale</td><td>Major/minor blues scale?<details>Minor blues scale</details></td>
+	</tr>
+	</table>
+	
+	
+
+<table>
+<tr><th>Name</th><th>Notes</th></tr>
+<tr>
+	<td>F Pentatonic scale</td><td><details>F, G, A, C, D</details></td>
+</tr>
+<tr>
+	<td>Bb Pentatonic scale</td><td><details>F, G, A, C, D</details></td>
+</tr>
+<tr>
+	<td>D Minor Pentatonic scale</td><td><details>D, F, G, A, C</details></td>
+</tr>
+<tr>
+	<td>B Minor Pentatonic scale</td><td><details>B, D, E, F#, A</details></td>
+</tr>
+</table>
+
+## Blues scales
 
 1. Identify the notes in the following scales.
 
@@ -30,5 +66,7 @@ title: Jazz Scales Review 1
 	
 	1. Bb Blues scale: Bb, Db, Eb, F, Ab
     
-		<details>This is just the minor pentatonic. The Blues scale needs a #4: E.</details>
+		<details>This is just the minor pentatonic. The Blues scale needs #4 as well: E.</details>
+
+
     	
