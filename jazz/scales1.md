@@ -4,10 +4,6 @@ title: Jazz Scales Review 1
 
 ## Shorthand
 
-
-
-## Pentatonic scales
-
 1. There are both major and minor pentatonic scales. Fill in the table to show how each are commonly referred to.
 
 	<table>
@@ -19,28 +15,32 @@ title: Jazz Scales Review 1
 		<td>Blues scale</td><td>Major/minor blues scale?<details>Minor blues scale</details></td>
 	</tr>
 	</table>
-	
-	
 
-<table>
-<tr><th>Name</th><th>Notes</th></tr>
-<tr>
-	<td>F Pentatonic scale</td><td><details>F, G, A, C, D</details></td>
-</tr>
-<tr>
-	<td>Bb Pentatonic scale</td><td><details>F, G, A, C, D</details></td>
-</tr>
-<tr>
-	<td>D Minor Pentatonic scale</td><td><details>D, F, G, A, C</details></td>
-</tr>
-<tr>
-	<td>B Minor Pentatonic scale</td><td><details>B, D, E, F#, A</details></td>
-</tr>
-</table>
+## Pentatonic scales
+
+2. Identify the notes in these scales.
+
+
+
+	<table>
+	<tr><th>Name</th><th>Notes</th></tr>
+	<tr>
+		<td>F Pentatonic scale</td><td><details>F, G, A, C, D</details></td>
+	</tr>
+	<tr>
+		<td>Bb Pentatonic scale</td><td><details>F, G, A, C, D</details></td>
+	</tr>
+	<tr>
+		<td>D Minor Pentatonic scale</td><td><details>D, F, G, A, C</details></td>
+	</tr>
+	<tr>
+		<td>B Minor Pentatonic scale</td><td><details>B, D, E, F#, A</details></td>
+	</tr>
+	</table>
 
 ## Blues scales
 
-1. Identify the notes in the following scales.
+3. Identify the notes in the following scales.
 
 	1. C Blues scale
 	
