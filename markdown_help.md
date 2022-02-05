@@ -30,3 +30,13 @@ You must close `<li>` tags within `<details>` tags
 ## Youtube video controls
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qJi03NqXfk8?start=13&end=100" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Continuing numbering
+
+4. Starting numbering like this works in Github, but not pages.
+
+
+<ol start=4>
+<li>Use HTML on pages to customise <code>ol</code> starting number</li>
+<li>But remember to close the <code>li</code> tag</li>
+</ol>
