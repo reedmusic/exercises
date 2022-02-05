@@ -11,7 +11,9 @@ title: Jazz Scales Review 1
 Here is some other information.
 
 
-4. Here the list starts again, at point 4.
+<ol start=4>
+<li>Here the list starts again, at point 4.</li>
+<li>And another.</li>
 
 
 ## Subheading
