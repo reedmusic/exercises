@@ -70,7 +70,8 @@ layout: test
 		<li>Mostly major chords</li>
 		<li>Repetitive chord progression, particularly in B section</li>
 		<li>Simple chords with no obvious seventh chords or other extensions</li>
-		<li>More chord extensions, more obvious in piano comping, in the solo section</li>
+		<li>More chord extensions in the solo section</li>
+		<li>Lots of chromatic movement, with chords mainly centered around the tonic and the semitone and tone immediately above and below.</li>
 	</ul>
 	</details>
 	
