@@ -13,9 +13,11 @@ title: Home
 1. Jazz
 	* Scales
 		* [Scales 1](jazz/scales1.html)
-	* Listening practice
+	* Practice
 		* [Practice 1](jazz/jazz1.html)
 		* [Practice 2](jazz/jazz2.html)
+	* Weekly listening
+		* [2b-3](jazz/2b/2b-3.html)
 
 <!--
 ## Music Technology
