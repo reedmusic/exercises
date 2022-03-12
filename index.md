@@ -18,6 +18,7 @@ title: Home
 		* [Practice 2](jazz/jazz2.html)
 	* Weekly listening
 		* [2b-3](jazz/2b/2b-3.html)
+		* [2b-4](jazz/2b/2b-4.html)
 
 <!--
 ## Music Technology
