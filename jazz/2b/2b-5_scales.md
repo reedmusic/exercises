@@ -40,7 +40,8 @@ title: Jazz Listening Term 2b-5 Scales
 	
 6. Wayne Shorter: 'Footprints'. 0:00–0:32
 
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/3XvJFW0DHbU?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/3XvJFW0DHbU?start=2&end=29" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
 	
 	<details>Aeolian mode. Natural minor. C aeolian = C–D–Eb–F–G–A–Bb</details>
 	
