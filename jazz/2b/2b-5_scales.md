@@ -8,7 +8,7 @@ title: Jazz Listening Term 2b-5 Scales
 
 * Sonny Rollins: 'St. Thomas'. 0:18–0:54.
 
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/UA2XIWZxMKM?start=18&end=54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UA2XIWZxMKM?start=1&end=50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 	<details>Major scale.</details>
 	
