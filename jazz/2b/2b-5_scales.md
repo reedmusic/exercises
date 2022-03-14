@@ -21,6 +21,6 @@ title: Jazz Listening Term 2b-5 Scales
 	
 * Charles Mingus: 'Goodbye Pork Pie Hat'. 0:00–0:08
 
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/CWWO_VcdnHY&start=0&end=8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/CWWO_VcdnHY?start=0&end=8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 	<details>Minor pentatonic.</details>
