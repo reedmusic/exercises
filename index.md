@@ -19,6 +19,7 @@ title: Home
 	* Weekly listening
 		* [2b-3](jazz/2b/2b-3.html)
 		* [2b-4](jazz/2b/2b-4.html)
+		* [2b-5](jazz/2b/2b-5.html)
 
 <!--
 ## Music Technology

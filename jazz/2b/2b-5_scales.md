@@ -1,9 +1,14 @@
 ---
-title: Jazz Listening Term 2b-5 Scales
+title: Jazz Listening Term 2b-5
 
 ---
 
-## Scales fun
+- TOC
+{:toc}
+
+## 1. Scales fun
+
+Name the scales/modes used in these melodies. The videos are supposed to start/stop at the right place but if they don't, pay close attention to the timecodes.
 
 
 1. Sonny Rollins: 'St. Thomas'. 0:18–0:54.
@@ -46,5 +51,8 @@ title: Jazz Listening Term 2b-5 Scales
 	<details>Aeolian mode. Natural minor. C aeolian = C–D–Eb–F–G–A–Bb</details>
 	
 
-	
+## 2. Who Am I?
 
+## 3. General Listening
+
+## 4. Focused Listening
