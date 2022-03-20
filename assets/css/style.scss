@@ -18,12 +18,9 @@
 	font-weight: bold
 }
 
-details { color: red }
-
-details summary { 
+details { color: red;
 	cursor: pointer;
-	color: red;
-}
+ }
 
 details summary > * {
 	display: inline;
