@@ -26,4 +26,15 @@ details summary > * {
 	display: inline;
 }
 
-h1, h2, h3 { color: red }
+
+h1 {
+    padding-bottom: 0.3em;
+    font-size: 2em;
+    border-bottom: 1px solid darkblue;
+}
+
+h2 {
+    padding-bottom: 0.3em;
+    font-size: 1.5em;
+    border-bottom: 1px solid darkblue;
+}
