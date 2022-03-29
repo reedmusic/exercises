@@ -20,7 +20,9 @@ title: Home
 		* [2b-3](jazz/2b/2b-3.html)
 		* [2b-4](jazz/2b/2b-4.html)
 		* [2b-5](jazz/2b/2b-5.html)
+		* [2b-6](jazz/2b/2b-6.html)
 
+		
 <!--
 ## Music Technology
 -->
