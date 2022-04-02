@@ -7,15 +7,19 @@ title: Jazz Listening Term 2b-7 Easter
 
 # Focused listening
 
-## Cannonball Adderley
+## Cannonball Adderley: 'One for Daddy-O'
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u2xx3YTu2ac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-1. How many bars long is the intro
+1. How many bars long is the intro?
 
 	<details>8 bars</details>
 	
-2. Name the structure of the choruses
+2. The first note of the melody is Bb. Give the notes of the first phrase.
+
+	<details>Bb Db F G Bb</details>
+	
+2. Describe the structure of the choruses.
 
 	<details>12-bar blues</details>
 
@@ -46,7 +50,7 @@ title: Jazz Listening Term 2b-7 Easter
 
 	<details>4 choruses</details>
 	
-6. Name the scale degree the trumpet player starts their solo on
+6. Name the scale degree the trumpet player starts their solo on.
 
 	<details>b3</details>
 	
