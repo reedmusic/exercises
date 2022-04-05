@@ -28,7 +28,7 @@ title: Jazz Scales Review 1
 		<td>F Pentatonic scale</td><td><details>F, G, A, C, D</details></td>
 	</tr>
 	<tr>
-		<td>Bb Pentatonic scale</td><td><details>F, G, A, C, D</details></td>
+		<td>Bb Pentatonic scale</td><td><details>Bb, C, D, F, G</details></td>
 	</tr>
 	<tr>
 		<td>D Minor Pentatonic scale</td><td><details>D, F, G, A, C</details></td>
