@@ -15,6 +15,10 @@ title: Jazz Listening Term 2b-7 Easter
 
 	<details>8 bars</details>
 	
+2. Identify the beat the head starts on.
+
+	<details>2</details>
+	
 2. The first note of the melody is Bb. Give the notes of the first phrase.
 
 	<details>Bb Db F G Bb</details>
@@ -22,6 +26,14 @@ title: Jazz Listening Term 2b-7 Easter
 2. Describe the structure of the choruses.
 
 	<details>12-bar blues</details>
+	
+3. Describe the texture of the front line during the head.
+
+	<details>Alto and trumpet play in unison.</details>
+	
+4. Describe the role of the piano during the head.
+
+	<details>Comping, block chords, imitating the melody in octaves.</details>
 
 3. Fill in this table to show the instrumentation.
 
