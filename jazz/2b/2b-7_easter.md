@@ -1,5 +1,5 @@
 ---
-title: Jazz Listening Term 2b-7 Easter
+title: Jazz Listening Term 2b-7 Easter 1
 ---
 
 - TOC
@@ -66,4 +66,6 @@ title: Jazz Listening Term 2b-7 Easter
 
 	<details>b3</details>
 	
-	
+7. Give the scale degree of the final note the trumpet plays at 8:12.
+
+	<details>2nd/9th.</details>
