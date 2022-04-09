@@ -1,6 +1,6 @@
 ---
 title: Jazz Practice 2
-layout: test
+<!-- layout: test -->
 ---
 
 <!-- Wardell Gray: Twisted -->
