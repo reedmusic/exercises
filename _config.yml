@@ -1,2 +1,4 @@
 title: Exercises
 description: Practice questions for A Level courses
+kramdown:
+  parse_block_html: true
