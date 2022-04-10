@@ -22,6 +22,7 @@ title: Home
 		* [2b-5](jazz/2b/2b-5.html)
 		* [2b-6](jazz/2b/2b-6.html)
 		* [Easter 1](jazz/2b/2b-7.html)
+		* [Easter 2](jazz/2b/2b-8.html)
 		
 <!--
 ## Music Technology
