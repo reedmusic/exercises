@@ -18,6 +18,11 @@
 	font-weight: bold
 }
 
+.toc {
+	border:2px solid #006400;
+	background-color:#e6ffe6;
+}
+
 details { color: red;
 	cursor: pointer;
  }
@@ -29,12 +34,16 @@ details summary > * {
 
 h1 {
     padding-bottom: 0.3em;
-    font-size: 2em;
+    font-size: 3em;
     border-bottom: 2px solid #778899 !important;
 }
 
 h2 {
     padding-bottom: 0.3em;
-    font-size: 1.5em;
+    font-size: 2em;
     border-bottom: 2px solid #a0acb8 !important;
+}
+
+h3 {
+    font-size: 1.5em;
 }
