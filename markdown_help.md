@@ -8,6 +8,8 @@
 
 ### Markdown within HTML blocks
 
+==Causing problems with `<details` tag===
+
 Markdown is usually ignored within HTML blocks.
 
 <https://stackoverflow.com/questions/38417624/table-of-contents-using-jekyll-and-kramdown>
