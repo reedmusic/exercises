@@ -38,17 +38,21 @@ h1 {
     padding-bottom: 0.3em;
     font-size: 3em;
     border-bottom: 2px solid #778899 !important;
-    color: white;
-    background-color: black;
-    padding: 10px;
 }
 
 h2 {
-    padding-bottom: 0.3em;
-    font-size: 2em;
-    border-bottom: 2px solid #a0acb8 !important;
+	padding-bottom: 0.3em;
+	font-size: 2em;
+/*      border-bottom: 2px solid #a0acb8 !important; */
+	color: white;
+	background-color: darkblue;
+	padding: 6px;
 }
 
 h3 {
-    font-size: 1.5em;
+	font-size: 1.5em;
+
+	color: white;
+	background-color: #3399ff;
+	padding: 3px;
 }
