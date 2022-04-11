@@ -6,6 +6,21 @@
 - TOC
 {:toc}
 
+### Markdown within HTML blocks
+
+Markdown is usually ignored within HTML blocks.
+
+<https://stackoverflow.com/questions/38417624/table-of-contents-using-jekyll-and-kramdown>
+
+Use this in _config.yml
+
+```
+kramdown:
+  parse_block_html: true
+```
+
+Also the `parse_block_html` control here: <https://kramdown.gettalong.org/quickref.html>
+
 ## Resources
 
 * [HTML tag whitelist](https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf96807f2)
