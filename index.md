@@ -5,8 +5,8 @@ title: Home
 
 
 1. Modes
-	* [Cribsheet](modes/modes_crib)
-	* [Review 1](modes/modes1)
+	* [Cribsheet](jazz/modes/modes_crib)
+	* [Review 1](jazz/modes/modes1)
 1. Transposition
 	* [Cribsheet](transposition/transpose_crib)
 	* [Review 1](transposition/transpose1)
