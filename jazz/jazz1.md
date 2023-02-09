@@ -14,9 +14,9 @@ title: Jazz Practice 1
 	1. AABBA
 	1. ABAAC
 
-	<details>AABAC
+	<details>(ii) AABAC
 		
-		<details>Unusual. Like an AABA with a transition. How do you think the piece ends? Go and check.</details>
+		<details>Unusual. Like an AABA with a transition. How do you think the piece ends? Go and check later (Youtube source at the bottom of this page)</details>
 		
 	</details>
 
@@ -114,5 +114,5 @@ title: Jazz Practice 1
 	</ul>
 	</details>
 
-Listen: <https://youtu.be/xy_fxxj1mMY?t=1142>
+Source: <https://youtu.be/xy_fxxj1mMY?t=1142>
 	

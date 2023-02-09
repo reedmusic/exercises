@@ -3,6 +3,11 @@ layout: home
 title: Home
 ---
 
+
+* [Jazz Practice 1](jazz/jazz1.html)
+
+
+<!--
 1. Scales
 	* [Scales 1](jazz/scales1.html)
 2. Practice
@@ -16,6 +21,7 @@ title: Home
 	* [Easter 1](jazz/2b/2b-7.html)
 	* [Easter 2](jazz/2b/2b-8.html)
 	* [3a-2](jazz/3a/3a-2.html)
+-->
 
 <!--
 ## Music Technology
