@@ -52,7 +52,7 @@ title: Jazz Practice 2
 	
 	<details>1949. Accept any date in 1940s. Bebop continues to be recorded after this, and <i>Birth of the Cool</i> is recorded in 49, but Eduqas tends to limit Bebop to 40s and Cool to 50s.
 
-Listen: <https://www.youtube.com/watch?v=WQgxFHR6VxE>
+Source: <https://www.youtube.com/watch?v=WQgxFHR6VxE>
 	
 ## Optional
 
