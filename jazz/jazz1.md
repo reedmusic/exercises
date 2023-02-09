@@ -111,7 +111,7 @@ In Q5 in the exam, you would hear the entire extract three times, with a short p
 	<details>
 	<ul>
 		<li><b>John Coltrane</b></li>
-		<li>Sonny Stitt</li>
+		<li>Sonny Rollins</li>
 		<li>Lester Young</li>
 		<li>Coleman Hawkins</li>
 	</ul>
