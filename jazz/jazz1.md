@@ -4,6 +4,7 @@ title: Jazz Practice 1
 
 <!-- John Coltrane: Syeeda's Song Flute -->
 
+In Q5 in the exam, you would hear the entire extract three times, with a short pause between each playing and a longer pause after the final playing.
 
 <audio controls><source src="jazz1.mp3"></audio>
 
@@ -27,6 +28,8 @@ title: Jazz Practice 1
 	<ul>
 		<li>Swing rhythm</li>
 		<li>Played on the hi-hats</li>
+		<li>A crotchet and two (swung) quavers</li>
+		<li>Open hi-hat on beats 1 and 3, closed on 2 and 4.</li>
 	</ul>
 		
 	</details>
@@ -61,16 +64,16 @@ title: Jazz Practice 1
 	<details>Be-bop.</details>
 
 
-1. Describe the harmony heard in this extract. [3]
+1. Describe the harmony heard in the head. [3]
 
 	<details>
 	<ul>
-		<li>Parallel chords/harmony/movement</li>
-		<li>Mostly major chords</li>
-		<li>Repetitive chord progression, particularly in B section</li>
-		<li>Simple chords with no obvious seventh chords or other extensions</li>
-		<li>More chord extensions in the solo section</li>
-		<li>Lots of chromatic movement, with chords mainly centered around the tonic and the semitone and tone immediately above and below.</li>
+		<li>Parallel chords/harmony/movement.</li>
+		<li>In the A section, chords move up and down within the range of a tone either side of the tonic.</li>
+		<li>Piano only plays roots so the chord tones are hard to hear: harmonies are suggested/completed by the sax melody.</li>
+		<li>Mostly major chords.</li>
+		<li>B section in minor key.</li>
+		<li>B section usees repetitive two-bar chord progression heard four times.</li>
 	</ul>
 	</details>
 	
