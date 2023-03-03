@@ -5,7 +5,7 @@ layout: test
 
 <!-- John Coltrane: Syeeda's Song Flute -->
 
-In Q5 in the exam, you would hear the entire extract three times, with a short pause between each playing and a longer pause after the final playing.
+In Q5 in the exam, you hear the entire extract three times, with a short pause between each playing and a longer pause after the final playing.
 
 <audio controls><source src="jazz1.mp3"></audio>
 
