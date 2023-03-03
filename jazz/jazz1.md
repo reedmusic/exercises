@@ -1,5 +1,6 @@
 ---
 title: Jazz Practice 1
+layout: test
 ---
 
 <!-- John Coltrane: Syeeda's Song Flute -->
