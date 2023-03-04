@@ -1,10 +1,11 @@
 ---
 title: Jazz Practice 1
+
 ---
 
 <!-- John Coltrane: Syeeda's Song Flute -->
 
-In Q5 in the exam, you would hear the entire extract three times, with a short pause between each playing and a longer pause after the final playing.
+In Q5 in the exam, you hear the entire extract three times, with a short pause between each playing and a longer pause after the final playing.
 
 <audio controls><source src="jazz1.mp3"></audio>
 
@@ -113,5 +114,5 @@ In Q5 in the exam, you would hear the entire extract three times, with a short p
 	</ul>
 	</details>
 
-Source: <https://youtu.be/xy_fxxj1mMY?t=1142>
+<!-- Source: <https://youtu.be/xy_fxxj1mMY?t=1142> -->
 	
