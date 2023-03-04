@@ -10,16 +10,12 @@ In Q5 in the exam, you would hear the entire extract three times, with a short p
 
 
 1. Identify the structure of the head section. [1]
-	1. ABACA
-	1. AABAC
-	1. AABBA
-	1. ABAAC
+	1. ABAC
+	1. AABA
+	1. ABAB
+	1. ABBA
 
-	<details>(ii) AABAC
-		
-		<details>Unusual. Like an AABA with a transition. How do you think the piece ends? Go and check later (Youtube source at the bottom of this page)</details>
-		
-	</details>
+	<details>(i) ABAC</details>
 
 1. Describe the music played on the drum kit in the introduction. [2]
 
