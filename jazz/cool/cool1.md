@@ -2,6 +2,7 @@
 title: Jazz Listening: Cool 1
 
 ---
+
 <!--
 <style>
 	details { display: inline }
@@ -109,21 +110,21 @@ title: Jazz Listening: Cool 1
 		<td>Fm</td>
 		<td>Bbm</td>
 		<td>C7b9</td>
-		<td><details><summary>[1]</summary>Fm</details></td>
+		<td>[1] <details>Fm</details></td>
 	</tr>
 		
 	<tr>
 		<td>F7b9</td>
-		<td><details><summary>[2]</summary>Bbm</details></td>
-		<td><details><summary>[3]</summary>Eb7b9</details></td>
-		<td><details><summary>[4]</summary>Ab</details></td>
+		<td>[2] <details>Bbm</details></td>
+		<td>[3] <details>Eb7b9</details></td>
+		<td>[4] <details>Ab</details></td>
 	</tr>
 		
 	<tr>
 		<td>DbMaj7</td>
-		<td><details><summary>[5]</summary>Gm7b5</details></td>
-		<td><details><summary>[6]</summary>G7</details>/F</td>
-		<td><details><summary>[7]</summary>C</details>/E</td>
+		<td>[5] <details>Gm7b5</details></td>
+		<td>[6] <details></details>/F</td>
+		<td>[7] <details>C</details>/E</td>
 	</tr>
 	
 	<tr>
