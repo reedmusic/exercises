@@ -73,6 +73,8 @@ title: Jazz Listening: Cool 1
 	
 	
 #### Research questions
+
+1. As you work through this page, add every name to your jazz roster!
 	
 2. Who are the MJQ?
 
@@ -155,9 +157,21 @@ title: Jazz Listening: Cool 1
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e57F_Rm3xI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-1. Describe the music played by the piano in the head section
+1. Describe the music played by the piano in the head section.
 	
-	<details>A sections of the head are played in octaves. In the B section they improvise instead of playing the melody. The B section uses comping in the left hand. Chord extensions used, e.g. a V7#9 chord in the final turnaround</details>
+	<details>
+		<ul>
+			<li><b>A sections</b>: Played in unison</li>
+			<li>Starts of phrases are sometimes displaced and syncopated.</li>
+			<li>Block chords in the 7th and 8th bars, then 15th and 16th bars.</li>
+			<li><b>A1 section</b>: Played 2 octaves apart.</li>
+			<li><b>A2/A3 sections</b>: Played 1 octave apart (RH one octave lower than A1).</li>
+			<li><b>B section</b>: Melody in RH, block chords/comping in LH.</li>
+			<li>Starts with written/composed melody, but has lots of ornamentation and improvisation</li>
+			<li><b>A3 section</b>: Every phrase starts on beat 1; less syncopation.
+		</ul>
+	</details>
+		
 	
 1. How many solo choruses does the pianist play? Give the time each chorus starts. (I have to count the bars and beats on my fingers to keep track.)
 
@@ -173,8 +187,6 @@ title: Jazz Listening: Cool 1
 	
 	</details>
 	
-1. What is Coltrane playing? Is this normal?
+1. What instruemnt is John Coltrane playing? Is this normal for him?
 
 	<details>Soprano sax here. He usually plays tenor.</details>
-		
-1. Add all the musicians named on this entire page to your roster.
