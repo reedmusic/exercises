@@ -3,6 +3,10 @@ title: Jazz Listening: Cool 1
 
 ---
 
+<style>
+	details { display: none }
+</style>
+
 
 1. TOC
 {:toc}
@@ -39,7 +43,7 @@ title: Jazz Listening: Cool 1
 
 	<details>Vibraphone</details>
 		
-	3. Compare the rhythm of the introduction and head sections
+3. Compare the rhythm of the introduction and head sections
 
 	<details>The introduction uses straight quavers and the head uses swung quavers.</details>
 	
