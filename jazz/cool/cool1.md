@@ -98,6 +98,8 @@ Write detailed answers to the <b>Focused listening</b> quetions. They often star
 	
 ### [John Coltrane live at the Village Vanguard](https://www.youtube.com/watch?v=e57F_Rm3xI4)
 
+https://www.youtube.com/watch?v=e57F_Rm3xI4
+
 1. Describe the music played by the piano in the head section
 	
 	<details>A sections of the head are played in octaves. In the B section they improvise instead of playing the melody. The B section uses comping in the left hand. Chord extensions used, e.g. a V7#9 chord in the final turnaround</details>
