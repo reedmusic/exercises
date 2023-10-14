@@ -102,7 +102,6 @@ title: Jazz Listening: Cool 1
 Here is some info about DJango.
 
 
-
 	<table>
 		<tr>
 			<td>Fm</td>
@@ -125,7 +124,6 @@ Here is some info about DJango.
 			<td>7. C/E</td>
 		</tr>
 	</table>
-
 
 
 Here is some more Django.
