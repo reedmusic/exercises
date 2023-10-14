@@ -29,9 +29,12 @@ details { color: red;
 	cursor: pointer;
  }
 
+
+
 details summary > * {
-	display: inline;
+	display: none; /* Turn this to inline to show answers globally */
 }
+
 
 
 h1 {

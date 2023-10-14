@@ -4,7 +4,7 @@ title: Jazz Listening: Cool 1
 ---
 
 <style>
-	details { display: none }
+	details { display: inline }
 </style>
 
 
@@ -78,7 +78,7 @@ title: Jazz Listening: Cool 1
 
 	<details>Modern Jazz Quartet</details>
 	
-3. Find the name of the drummer.
+3. Find the name of their drummer 1944–1955 (actually not present for this album).
 
 	<details>Kenny Clarke</details>
 	
