@@ -9,6 +9,11 @@ title: Jazz Listening: Cool 1
 {: .toc}
 
 
+Add the <b>General listening</b> tracks to your playlists this week. Listen around them and their artists and albums if you can.
+
+Write detailed answers to the <b>Focused listening</b> quetions. They often start with listening questions (no cheating just yet!) then some research on artists or techniques (Wikipedia is a great resource for albums and personnel...). Sometimes the answers will aappear here in <span style="color:red">red</span>, sometimes we'll wait for the lesson to reveal all.
+
+
 ## General listening
 
 <!-- 1. [Lee Konitz & Jimmy Guiffre: Someone to watch over me](https://www.youtube.com/watch?v=ul-5qsJlocI) -->
@@ -18,6 +23,7 @@ title: Jazz Listening: Cool 1
 5. [Ahmad Jamal: Poinciana](https://www.youtube.com/watch?v=Z0e2G32f3IU&list=PLTYibwdxbb3UnzzITkjtsKcvNAIg_JO2b&index=4)
 
 ## Focused listening
+
 
 ### [MJQ: Softly as in a morning sunrise](https://www.youtube.com/watch?v=Q97dhFfAegw)
 
