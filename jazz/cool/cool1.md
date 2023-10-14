@@ -82,7 +82,7 @@ title: Jazz Listening: Cool 1
 
 	<details>Kenny Clarke</details>
 	
-4. What bebop drumming technique is associated with him?
+4. What bebop drumming technique is associated with this first drummer?
 
 	<details>"(Dropping) bombs"</details>
 
@@ -93,12 +93,41 @@ title: Jazz Listening: Cool 1
 3. Name his most famous standard (hint: it features his nickname).
 
 	<details>Bags' Groove</details>
+
+
+### [MJQ: Django](https://www.youtube.com/watch?v=wXnkD7_5vqM)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wXnkD7_5vqM " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<table>
+	<tr>
+		<td>Fm</td>
+		<td>Bbm</td>
+		<td>C7b9</td>
+		<td>[1] <details>Fm</details></td>
+	</tr>
 	
+	<tr>
+		<td>F7b9</td>
+		<td>2. Bbm</td>
+		<td>3. Eb7b9</td>
+		<td>4. Ab</td>
+	</tr>
+
+	<tr>
+		<td>Db/td>
+		<td>5. Gm7b5</td>
+		<td>6. G7/F</td>
+		<td>7. C/E</td>
+	</tr>
+</table>
 
 	
 ### [John Coltrane live at the Village Vanguard](https://www.youtube.com/watch?v=e57F_Rm3xI4)
 
-https://www.youtube.com/watch?v=e57F_Rm3xI4
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e57F_Rm3xI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 1. Describe the music played by the piano in the head section
 	
@@ -122,4 +151,4 @@ https://www.youtube.com/watch?v=e57F_Rm3xI4
 
 	<details>Soprano sax here. He usually plays tenor.</details>
 		
-Add all the musicians named on this page to your roster.
+1. Add all the musicians named on this entire page to your roster.
