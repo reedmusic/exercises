@@ -2,6 +2,9 @@
 title: Jazz Listening: Cool 5
 ---
 
+<p class="pagetitle">Jazz Listening: Cool 5</p>
+
+
 ## Cannonball Adderley: 'One for Daddy-O'
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u2xx3YTu2ac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

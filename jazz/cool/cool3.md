@@ -3,6 +3,9 @@ title: Jazz Listening: Cool 3
 
 ---
 
+<p class="pagetitle">Jazz Listening: Cool 3</p>
+
+
 1. TOC
 {:toc}
 {: .toc}
