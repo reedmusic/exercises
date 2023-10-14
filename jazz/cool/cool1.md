@@ -99,7 +99,7 @@ title: Jazz Listening: Cool 1
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wXnkD7_5vqM " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-1. The table below shows the chord progression for the first twelve bars of the form. Copy it and add the missing chord symbols.
+1. The table below shows the chord progression for the head.
 
 
 	<table>
