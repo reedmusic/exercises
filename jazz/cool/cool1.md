@@ -137,7 +137,7 @@ title: Jazz Listening: Cool 1
 		<td>C7</td>
 		<td>Fm</td>
 	</tr>
-</table>
+	</table>
 
 
 2. The head has an unusual 20-bar structure. There are a few possible interpretations, based on whether you prioritise melody or chord progression (I can see multiple instances of the same 4-bar progression). What do you think is the best analysis? Come back to the lesson with an argument! 
