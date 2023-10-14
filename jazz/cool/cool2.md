@@ -9,6 +9,9 @@ title: Jazz Listening: Cool 2
 * [Adelaide Hall & Fats Waller: That Old Feeling](https://www.youtube.com/watch?v=JZrKKs-gUds)
 --> 
 
+<p class="pagetitle">Jazz Listening: Cool 2</p>
+
+
 1. TOC
 {:toc}
 {: .toc}

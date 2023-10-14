@@ -11,10 +11,9 @@ title: Jazz Listening: Cool 3
 
 Name the scales/modes used in these **melodies**. The videos are supposed to start/stop at the right place but if they don't, pay close attention to the timecodes.
 
-
 1. Sonny Rollins: 'St. Thomas'. 0:18–0:54.
 
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/UA2XIWZxMKM?start=18&end=54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/iStOzl51cbw?start=18&end=54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 	<details>Major scale.</details>
 	
