@@ -53,7 +53,12 @@ title: Jazz Listening: Cool 1
 	
 6. Describe how the harmonic rhythm changes through the head.
 
-	<details>The A sections have a faster harmonic rhythm: either one or two changes per bar. The B section has generally one chord change every two bars.</details>
+	<details>
+	<ul>
+		<li><b>A sections</b>:Faster harmonic rhythm. Either one or two changes per bar.</li>
+		<li><b>B section</b>: Slower harmonic rhythm. Generally one chord change every two bars.</li>
+	</ul>
+	</details>
 
 5. Describe the (other aspects of) harmony and tonality of the head section.
 
