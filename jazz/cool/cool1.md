@@ -9,7 +9,7 @@ title: Jazz Listening: Cool 1
 </style>
 -->
 
-<span style="font-size:24pt;font-weight:bold">Jazz Listening: Cool 1</span>
+<p class="faketitle">Jazz Listening: Cool 1</p>
 
 1. TOC
 {:toc}
