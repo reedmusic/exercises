@@ -21,9 +21,11 @@ title: Jazz Listening: Cool 1
 
 ### [MJQ: Softly as in a morning sunrise](https://www.youtube.com/watch?v=Q97dhFfAegw)
 
+#### Listening questions
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q97dhFfAegw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-1. Describe the texture of the introduction
+1. Describe the texture of the introduction.
 
 	<details>Polyphonic/contrapuntal</details>
 	
@@ -34,18 +36,10 @@ title: Jazz Listening: Cool 1
 2. Name the instrument that plays the head.
 
 	<details>Vibraphone</details>
-	
-2. Find the name of the percussionist who plays this.
+		
+	3. Compare the rhythm of the introduction and head sections
 
-	<details>Milt Jackson</details>
-	
-2. Who are the MJQ?
-
-	<details>Modern Jazz Quartet</details>
-	
-3. Compare the rhythm of the introduction and head sections
-
-	<details>The introduction uses straight quavers and the head uses swung quavers</details>
+	<details>The introduction uses straight quavers and the head uses swung quavers.</details>
 	
 4. Identify the structure of the head.
 
@@ -69,8 +63,15 @@ title: Jazz Listening: Cool 1
 		<li>The B section starts in the relative major key. However this quickly modulates back to the tonic minor.</li>
 	</ul>
 	</details>
-	
 
+	
+	
+#### Research questions
+	
+2. Who are the MJQ?
+
+	<details>Modern Jazz Quartet</details>
+	
 3. Find the name of the drummer.
 
 	<details>Kenny Clarke</details>
@@ -78,10 +79,20 @@ title: Jazz Listening: Cool 1
 4. What bebop drumming technique is associated with him?
 
 	<details>"(Dropping) bombs"</details>
+
+2. Find the name of the percussionist who plays vibraphone.
+
+	<details>Milt Jackson</details>
+	
+3. Name his most famous standard (hint: it features his nickname).
+
+	<details>Bags' Groove</details>
+	
+
 	
 ### [John Coltrane live at the Village Vanguard](https://www.youtube.com/watch?v=e57F_Rm3xI4)
 
-12. Describe the music played by the piano in the head section
+1. Describe the music played by the piano in the head section
 	
 	<details>A sections of the head are played in octaves. In the B section they improvise instead of playing the melody. The B section uses comping in the left hand. Chord extensions used, e.g. a V7#9 chord in the final turnaround</details>
 	
