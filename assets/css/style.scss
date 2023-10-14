@@ -31,9 +31,12 @@ details { color: red;
 
 
 
+details { display:none }
+
 details summary > * {
 	display: none; 
 }
+
 
 
 
