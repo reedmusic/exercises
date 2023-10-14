@@ -15,9 +15,9 @@ title: Jazz Listening Term 2b-4
 
 ## General listening
 
-### [Stan Getz: 'The Girl From Ipanema'](https://www.youtube.com/watch?v=j8VPmtyLqSY)
+### [Stan Getz: 'The Girl From Ipanema'](https://www.youtube.com/watch?v=c5QfXjsoNe4)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j8VPmtyLqSY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c5QfXjsoNe4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### [Chet Baker: 'How High The Moon'](https://www.youtube.com/watch?v=-6nQ-RHDBJc)
 

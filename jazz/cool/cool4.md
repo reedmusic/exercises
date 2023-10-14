@@ -220,4 +220,4 @@ This recording is a bit late for Eduqas, but it's based on a solo piano recordin
 
 6. Describe how the structure of the final playing of the head is different to the first time.
 
-	<details>The last four bars which are extended into eight bars.</details>
+	<details>The last four bars which are extended into eight bars.</details>![](https://www.youtube.com/watch?v=c5QfXjsoNe4)

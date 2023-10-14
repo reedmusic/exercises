@@ -110,7 +110,7 @@ This was released in 1957.
 	
 2. The bass plays a repeating two-bar rhythm throughout. Dictate this rhythm.
 
-	<details><img src="2b-8-bass.jpg" width="500px"></details>
+	<details><img src="cool6-bass.jpg" width="500px"></details>
 	
 4. Name the two front-line instruments.
 
