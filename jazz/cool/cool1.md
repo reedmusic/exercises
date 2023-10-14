@@ -119,7 +119,7 @@ Here is some info about DJango.
 		</tr>
 	
 		<tr>
-			<td>Db/td>
+			<td>Db</td>
 			<td>5. Gm7b5</td>
 			<td>6. G7/F</td>
 			<td>7. C/E</td>
