@@ -3,10 +3,11 @@ title: Jazz Listening: Cool 1
 
 ---
 
-
+<!--
 <style>
 	details { display: inline }
 </style>
+-->
 
 
 1. TOC
@@ -56,7 +57,7 @@ title: Jazz Listening: Cool 1
 
 	<details>
 	<ul>
-		<li><b>A sections</b>:Faster harmonic rhythm. Either one or two changes per bar.</li>
+		<li><b>A sections</b>: Faster harmonic rhythm. Either one or two changes per bar.</li>
 		<li><b>B section</b>: Slower harmonic rhythm. Generally one chord change every two bars.</li>
 	</ul>
 	</details>
