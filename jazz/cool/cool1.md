@@ -107,21 +107,21 @@ Here is some info about DJango.
 	<td>Fm</td>
 	<td>Bbm</td>
 	<td>C7b9</td>
-	<td>[1] <details>Fm</details></td>
+	<td><details><summary>[1]</summary>Fm</details></td>
 </tr>
 	
 <tr>
 	<td>F7b9</td>
-	<td>2. Bbm</td>
-	<td>3. Eb7b9</td>
-	<td>4. Ab</td>
+	<td><details><summary>[2]</summary>Bbm</details></td>
+	<td><details><summary>[3]</summary>Eb7b9</details></td>
+	<td><details><summary>[4]</summary>Ab</details></td>
 </tr>
 	
 <tr>
 	<td>Db</td>
-	<td>5. Gm7b5</td>
-	<td>6. G7/F</td>
-	<td>7. C/E</td>
+	<td><details><summary>[5]</summary>Gm7b5</details></td>
+	<td><details><summary>[6]</summary>G7/F</details></td>
+	<td><details><summary>[7]</summary>C/E</details></td>
 </tr>
 </table>
 
