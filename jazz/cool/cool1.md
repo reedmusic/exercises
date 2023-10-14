@@ -12,7 +12,7 @@ title: Jazz Listening: Cool 1
 {:toc}
 {: .toc}
 
-
+# Cool 1
 
 ## General listening
 
