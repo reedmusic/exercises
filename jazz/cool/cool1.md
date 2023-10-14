@@ -12,7 +12,7 @@ title: Jazz Listening: Cool 1
 {:toc}
 {: .toc}
 
-# Cool 1
+# Jazz Listening: Cool 1
 
 ## General listening
 
@@ -99,6 +99,8 @@ title: Jazz Listening: Cool 1
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wXnkD7_5vqM " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<!--
+
 <table>
 	<tr>
 		<td>Fm</td>
@@ -121,6 +123,9 @@ title: Jazz Listening: Cool 1
 		<td>7. C/E</td>
 	</tr>
 </table>
+
+-->
+
 
 	
 ### [John Coltrane live at the Village Vanguard](https://www.youtube.com/watch?v=e57F_Rm3xI4)
