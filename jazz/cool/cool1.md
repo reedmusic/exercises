@@ -2,11 +2,11 @@
 title: Jazz Listening: Cool 1
 
 ---
-
+<!--
 <style>
 	details { display: inline }
 </style>
-
+-->
 
 1. TOC
 {:toc}
