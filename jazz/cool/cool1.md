@@ -12,7 +12,7 @@ title: Jazz Listening: Cool 1
 {:toc}
 {: .toc}
 
-# Jazz Listening: Cool 1
+<span style="font-size:20pt;font-weight:bold">Jazz Listening: Cool 1</span>
 
 ## General listening
 
