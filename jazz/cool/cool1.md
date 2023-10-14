@@ -101,7 +101,7 @@ title: Jazz Listening: Cool 1
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wXnkD7_5vqM " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-1. The table below shows the chord progression for the head.
+1. The table below shows the chord progression for the head. Fill in the missing chords 1–7. 
 
 
 	<table>
@@ -140,6 +140,8 @@ title: Jazz Listening: Cool 1
 		<td>Fm</td>
 	</tr>
 	</table>
+	
+	N.B.: There are a few extra extensions: don't worry so much about getting those right. My transcription is also very different to any lead sheets you might spot, and ignores some of the passing notes/chords.
 
 
 2. The head has an unusual 20-bar structure. There are a few possible interpretations, based on whether you prioritise melody or chord progression (I can see multiple instances of the same 4-bar progression). What do you think is the best analysis? Come back to the lesson with an argument! 
