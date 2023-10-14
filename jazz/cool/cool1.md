@@ -21,6 +21,8 @@ title: Jazz Listening: Cool 1
 
 ### [MJQ: Softly as in a morning sunrise](https://www.youtube.com/watch?v=Q97dhFfAegw)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q97dhFfAegw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 1. Describe the texture of the introduction
 
 	<details>Polyphonic/contrapuntal</details>
