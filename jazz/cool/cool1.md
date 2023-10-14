@@ -3,17 +3,17 @@ title: Jazz Listening: Cool 1
 
 ---
 
-<!--
+
 <style>
 	details { display: inline }
 </style>
--->
+
 
 1. TOC
 {:toc}
 {: .toc}
 
-<span style="font-size:20pt;font-weight:bold">Jazz Listening: Cool 1</span>
+<span style="font-size:24pt;font-weight:bold">Jazz Listening: Cool 1</span>
 
 ## General listening
 
