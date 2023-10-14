@@ -1,5 +1,5 @@
 ---
-title: Jazz Listening Term 2b-8 Easter 2
+title: Jazz Listening: Cool 6
 ---
 
 1. TOC

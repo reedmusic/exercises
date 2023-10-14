@@ -1,5 +1,5 @@
 ---
-title: Jazz Listening Term 2b-3
+title: Jazz Listening: Cool 1
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Jazz Listening Term 2b-7 Easter 1
+title: Jazz Listening: Cool 5
 ---
 
 ## Cannonball Adderley: 'One for Daddy-O'
