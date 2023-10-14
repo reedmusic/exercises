@@ -102,28 +102,28 @@ title: Jazz Listening: Cool 1
 Here is some info about DJango.
 
 
-	<table>
-		<tr>
-			<td>Fm</td>
-			<td>Bbm</td>
-			<td>C7b9</td>
-			<td>[1] <details>Fm</details></td>
-		</tr>
-		
-		<tr>
-			<td>F7b9</td>
-			<td>2. Bbm</td>
-			<td>3. Eb7b9</td>
-			<td>4. Ab</td>
-		</tr>
+<table>
+<tr>
+	<td>Fm</td>
+	<td>Bbm</td>
+	<td>C7b9</td>
+	<td>[1] <details>Fm</details></td>
+</tr>
 	
-		<tr>
-			<td>Db</td>
-			<td>5. Gm7b5</td>
-			<td>6. G7/F</td>
-			<td>7. C/E</td>
-		</tr>
-	</table>
+<tr>
+	<td>F7b9</td>
+	<td>2. Bbm</td>
+	<td>3. Eb7b9</td>
+	<td>4. Ab</td>
+</tr>
+	
+<tr>
+	<td>Db</td>
+	<td>5. Gm7b5</td>
+	<td>6. G7/F</td>
+	<td>7. C/E</td>
+</tr>
+</table>
 
 
 Here is some more Django.
