@@ -99,34 +99,53 @@ title: Jazz Listening: Cool 1
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wXnkD7_5vqM " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Here is some info about DJango.
+1. The table below shows the chord progression for the first twelve bars of the form. Copy it and add the missing chord symbols.
 
 
-<table>
-<tr>
-	<td>Fm</td>
-	<td>Bbm</td>
-	<td>C7b9</td>
-	<td><details><summary>[1]</summary>Fm</details></td>
-</tr>
+	<table>
+	<tr>
+		<td>Fm</td>
+		<td>Bbm</td>
+		<td>C7b9</td>
+		<td><details><summary>[1]</summary>Fm</details></td>
+	</tr>
+		
+	<tr>
+		<td>F7b9</td>
+		<td><details><summary>[2]</summary>Bbm</details></td>
+		<td><details><summary>[3]</summary>Eb7b9</details></td>
+		<td><details><summary>[4]</summary>Ab</details></td>
+	</tr>
+		
+	<tr>
+		<td>DbMaj7</td>
+		<td><details><summary>[5]</summary>Gm7b5</details></td>
+		<td><details><summary>[6]</summary>G7</details>/F</td>
+		<td><details><summary>[7]</summary>C</details>/E</td>
+	</tr>
 	
-<tr>
-	<td>F7b9</td>
-	<td><details><summary>[2]</summary>Bbm</details></td>
-	<td><details><summary>[3]</summary>Eb7b9</details></td>
-	<td><details><summary>[4]</summary>Ab</details></td>
-</tr>
+	<tr>
+		<td>Fm</td>
+		<td>Bbm</td>
+		<td>C7</td>
+		<td>Fm</td>
+	</tr>
 	
-<tr>
-	<td>Db</td>
-	<td><details><summary>[5]</summary>Gm7b5</details></td>
-	<td><details><summary>[6]</summary>G7/F</details></td>
-	<td><details><summary>[7]</summary>C/E</details></td>
-</tr>
+	<tr>
+		<td>Fm</td>
+		<td>Bbm</td>
+		<td>C7</td>
+		<td>Fm</td>
+	</tr>
 </table>
 
 
-Here is some more Django.
+2. The head has an unusual 20-bar structure. There are a few possible interpretations, based on whether you prioritise melody or chord progression (I can see multiple instances of the same 4-bar progression). What do you think is the best analysis? Come back to the lesson with an argument! 
+
+
+	If that's not enough: have a listen to the solo choruses. What harmonic variations do you hear here?
+
+	If that's not enough, did you hear the transition between the vibes and piano solo?
 
 
 	
