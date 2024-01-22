@@ -3,7 +3,17 @@ title: Jazz Listening: Cool 3
 
 ---
 
+<!--
+<style>
+	details { display: inline }
+</style>
+-->
+
+
 <p class="pagetitle">Jazz Listening: Cool 3</p>
+
+
+
 
 
 1. TOC

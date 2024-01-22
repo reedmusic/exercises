@@ -3,6 +3,11 @@ title: Jazz Listening: Cool 2
 
 ---
 
+<!--
+<style>
+	details { display: inline }
+</style>
+-->
 
 <!-- 
 * [Ella Fitzgerald: That Old Feeling](https://www.youtube.com/watch?v=Mh_-uUMvFg0)
