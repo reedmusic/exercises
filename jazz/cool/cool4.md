@@ -2,11 +2,11 @@
 title: Jazz Listening: Cool 4
 ---
 
-<!--
+
 <style>
 	details { display: inline }
 </style>
--->
+
 
 <p class="pagetitle">Jazz Listening: Cool 4</p>
 
