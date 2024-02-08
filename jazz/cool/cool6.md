@@ -71,7 +71,7 @@ This was released in 1957.
 		</tr>
 		
 		<tr>
-			<th>Details</th>
+			<th>Details/summary</th>
 			<td>Intro</td>
 			<td><details>Head</details></td>
 			<td><details>Baritone sax solo</details></td>
@@ -125,11 +125,12 @@ This was released in 1957.
 	<details><img src="cool6-bass.jpg" width="500px"></details>
 	
 4. Name the two front-line instruments.
-
-	<ol>
-		<li><details>Trumpet</details></li>
-		<li><details>Flute</details></li>
-	</ol>
+	<details>
+		<ul>
+			<li>Trumpet></li>
+			<li>Flute</li>
+		</ul>
+	</details>
 	
 1. Name the interval between these two instruments in the majority of the head.
 
