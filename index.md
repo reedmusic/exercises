@@ -9,13 +9,12 @@ title: Home
 -->
 
 
-## Jazz Listening
+## Jazz listening resources
 
-### How this resource works:
-
-Add the <b>General listening</b> tracks to your playlists this week. Listen around them and their artists and albums if you can.
-
-Write detailed answers to the <b>Focused listening</b> questions. They often start with <b>listening questions</b> (no cheating just yet!) then some <b>research</b> on artists or techniques (Wikipedia is a great resource for albums and personnel...). Sometimes the answers will appear in <span style="color:red">red</span>, sometimes we'll wait for the lesson to reveal all.
+ * Each page starts with <b>General listening</b>
+ * Then some <b>Focused listening</b> with questions. 
+     * There may be research on artists or techniques (Wikipedia is a great resource for albums and personnel...).    
+     * Sometimes the answers will appear in <span style="color:red">red</span>, sometimes we'll wait for the lesson to reveal all.
 
 
 ### Cool jazz

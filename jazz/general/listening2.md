@@ -1,14 +1,13 @@
-
-
 ---
-title: Jazz Listening Term 2b-4
+title: Jazz Listening 2
 
 ---
 
+<!--
 <style>
 	details { display: inline }
 </style>
-
+-->
 
 <!--
 1. TOC
