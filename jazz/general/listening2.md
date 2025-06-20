@@ -92,6 +92,8 @@ title: Jazz Listening 2
 
 ### [Charlie Parker: 'Billie's Bounce'](https://www.youtube.com/watch?v=S4mRaEzwTYo)
 
+For these questions, use from 0:00
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S4mRaEzwTYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
@@ -99,10 +101,11 @@ title: Jazz Listening 2
 
 
 	<table>
-		<tr><th>Sections:</th><th>Section 1</th><th>Section 2</th><th>Section 3</th></tr>
+		<tr><th>Sections:</th><th>Section 1</th><th>Section 2</th><th>Section 3</th><th>Section 4</th></tr>
 		<tr>
 			<th>No. of bars:</th>
 			<td><details>4</details></td>
+			<td><details>12</details></td>
 			<td><details>12</details></td>
 			<td><details>12</details></td>
 		</tr>
@@ -111,6 +114,7 @@ title: Jazz Listening 2
 			<td><details>Intro</details></td>
 			<td><details>Head (1)</details></td>
 			<td><details>Head (2)</details></td>
+			<td><details>Alto sax solo</details></td>
 		</tr>
 	</table>
 
@@ -128,7 +132,11 @@ title: Jazz Listening 2
 
 #### Comparison
 
-#### Lead sheet
+"Next, you will hear an extract taken from the song 'Billie's Bounce' performed by an ensmeble led by Wes Montegomery.
+
+Compare and contrast the stylistic features of this song with those of extract 1. You may wish to mentiond etails of structure, harmony, tonality, the use of voices and instruments, and any other points of interest relating to the musical style."
+
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iWq8QccLs_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
