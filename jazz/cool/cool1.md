@@ -28,7 +28,7 @@ title: Jazz Listening: Cool 1
 ## Focused listening
 
 
-### [MJQ: Softly as in a morning sunrise](https://www.youtube.com/watch?v=Q97dhFfAegw)
+### [MJQ: Softly as in a morning sunrise](https://www.youtube.com/watch?v=crCxefHCLJA)
 
 #### Listening questions
 
