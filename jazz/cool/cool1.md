@@ -32,7 +32,7 @@ title: Jazz Listening: Cool 1
 
 #### Listening questions
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q97dhFfAegw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h08f-n9-pFQ?si=QWJDSMsZ9QAl1wjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. Describe the texture of the introduction.
 
@@ -192,6 +192,6 @@ title: Jazz Listening: Cool 1
 	
 	</details>
 	
-1. What instruemnt is John Coltrane playing? Is this normal for him?
+1. What instrument is John Coltrane playing? Is this normal for him?
 
 	<details>Soprano sax here. He usually plays tenor.</details>
