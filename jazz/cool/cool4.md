@@ -4,7 +4,7 @@ title: Jazz Listening: Cool 4
 
 
 <style>
-	details { display: inline }
+	details { display: none }
 </style>
 
 
@@ -61,47 +61,49 @@ title: Jazz Listening: Cool 4
 		<details><summary>...In which case, which note (counting from the start) does the sax play the major 6th (i.e. the note that distinguishes the dorian from the aeolian?)</summary>The 6th note from the start. Notice how he avoids playing this in the second chord, which is the minor submediant, since it would clash.</details>	</details>
 
 
-## Bebop or not
+## Bebop or not: some key musicians
+
+Name their instrument. Are they bebop or not?	
 
 1. Miles Davis
 
-	<details>Not!</details>
+	<details>Trumpet. Often muted. Not!</details>
 	
 2. Chet Baker
 
-	<details>Not!</details>
+	<details>Trumpet. Often sang. Not!</details>
 	
 3. Charlie Parker
 
-	<details>Bebop!</details>
+	<details>Alto saxophone. Bebop!</details>
 
 4. Theo Monk
 
-	<details>Bebop! Very likely, despite writing some important cool jazz pieces like 'Round Midnight'.</details>
+	<details>Piano. Bebop! Very likely, despite writing some important cool jazz pieces like 'Round Midnight'.</details>
 	
 5. Dave Brubeck
 
-	<details>Not!</details>
+	<details>Piano. Not!</details>
 	
 6. Dizzy Gillespie
 
-	<details>Bebop!</details>
+	<details>Trumpet. Bebop!</details>
 	
 7. John Coltrane
 
-	<details>Bebop!</details>
+	<details>Tenor saxophone. Bebop!</details>
 	
 8.	Bill Evans
 
-	<details>Not!</details>
+	<details>Piano. Not!</details>
 
 9. Max Roach
 
-	<details>Bebop!</details>
+	<details>Drums. Bebop!</details>
 	
 10. Gerry Mulligan
 
-	<details>Not! Mostly associated with cool</details>
+	<details>Baritone saxophone. Not! Mostly associated with cool</details>
 
 	
 
@@ -111,7 +113,9 @@ title: Jazz Listening: Cool 4
 
 Lester Young was a 1930s/40s pioneer of what would become Cool Jazz. He was well known for his lyrical, vibrato, breathy tenor sax tone played high in the register. 
 
-Here he is in the Count Basie band in the 1930s (Swing/Big Band style):
+Here he is in the Count Basie band in 1939 with Count Basie's Kansas City Seven. An example of a piece in a Swing style, but **not** Big Band.
+
+Read the quick [wikipedia page](https://en.wikipedia.org/wiki/Lester_Leaps_In) here.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f60JYoHdfVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -119,11 +123,12 @@ Here he is in the Count Basie band in the 1930s (Swing/Big Band style):
 
 	<details>AABA.</details>
 
-* The head has been written using a very famous chord progression. Can you tell which?
+* The head has been written using a very famous chord progression: this is more obvious in the B section. Can you tell which?
 
 	<details>It's taken from George Gershwin's 'I Got Rhythm': the famous 'Rhythm changes'.</details>
 	
 	
+Listen to the head of 'Stardust' (1954). Here he is accompanied by the Oscar Peterson (pianist) trio:
 	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yaWSjLevVMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -156,7 +161,7 @@ See more:
 
 ### Bill Evans Trio: 'Waltz for Debby'
 
-This recording is a bit late for Eduqas, but it's based on a solo piano recording released in 1956. Note the great descending bassline.
+This recording is a bit late for Eduqas (early 1960s), but it's based on a solo piano recording released in 1956. Note the great descending bassline.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jjFf9was5n8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -165,6 +170,8 @@ This recording is a bit late for Eduqas, but it's based on a solo piano recordin
 
 
 ### Bill Evans Trio: 'Someday My Prince Will Come'
+
+This recording is **just** in time for Eduqas, in 1960.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EaCzgfIPmsk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
