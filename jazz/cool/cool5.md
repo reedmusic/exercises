@@ -4,7 +4,7 @@ title: Jazz Listening: Cool 5
 
 
 <style>
-	details { display: inline }
+	details { display: none }
 </style>
 
 
