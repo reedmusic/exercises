@@ -92,8 +92,10 @@ This was released in 1957.
 			<li>Cross-rhythm at the end of the introduction</li>
 		</ul>
 	</details>
+
+3. Name the most common interval between the two front line instruments during the head (0:12–0:32).
 	
-4. Aside from unison/octaves, name the interval between the front line instruments during the A section in the head (0:12–0:32).
+4. Name the other interval between the two front line instruments at the end of the A section in the head.
 
 	<details>(Compound) third, tenth</details>
 	
