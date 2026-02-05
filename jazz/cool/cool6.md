@@ -39,7 +39,7 @@ This was released in 1957.
 
 2. Describe the structure of each chorus using letters.
 	
-	<details>AABA (where the final A is slightly lengthened)</details>	
+	<details>AABA2 (where the final A is slightly lengthened)</details>	
 2. Complete the table to show the structure from 0:00 to 3:25.
 	
 	<table>
@@ -86,14 +86,21 @@ This was released in 1957.
 		<ul>
 			<li>Starts on beat 2.5</li>
 			<li>Anacrusis</li>
-			<li>Uses a narrow range of notes</li>
+			<li>Uses a narrow range of notes: a sixth</li>
 			<li>Mostly uses the third, fourth and fifth scale degrees</li>
 			<li>Unison/in octaves</li>
 			<li>Cross-rhythm at the end of the introduction</li>
+			<li>Two-bar phrases</li>
+			<li>A two-bar rest at the end</li>
+			<li>A fragment of melody from the main head section</li>
+			<li>Ends with a descending major arpeggio</li>
+			<li>Uses notes from the major scale</li>
 		</ul>
 	</details>
 
 3. Name the most common interval between the two front line instruments during the head (0:12–0:32).
+
+	<details>Octave</details>
 	
 4. Name the other interval between the two front line instruments at the end of the A section in the head.
 
@@ -126,7 +133,9 @@ This was released in 1957.
 
 	<details><img src="cool6-bass.jpg" width="500px"></details>
 	
+	
 4. Name the two front-line instruments.
+	
 	<details>
 		<ul>
 			<li>Trumpet></li>
@@ -137,10 +146,7 @@ This was released in 1957.
 1. Name the interval between these two instruments in the majority of the head.
 
 	<details>Third</details>
-	
-1. Which instrument plays the higher note?
 
-	<details>Trumpet</details>
 	
 1. Describe how the relationship between the instruments changes in the middle of the head (0:56)
 	
